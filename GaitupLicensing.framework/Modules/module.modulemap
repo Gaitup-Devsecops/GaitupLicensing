@@ -1,0 +1,6 @@
+framework module GaitupLicensing {
+    umbrella header "GaitupLicensing.h"
+
+    export *
+    module * { export * }
+}
